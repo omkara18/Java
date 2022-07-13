@@ -1,5 +1,4 @@
 public class TypesOfVarible {
-
     static int a=7318; 
     //Static Varible
     /*
