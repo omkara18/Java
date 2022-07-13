@@ -1,7 +1,5 @@
 public class Array {
 
-
-
     void ArrayDeclaration()
     {
         //Syntax to Declare an Array in Java
